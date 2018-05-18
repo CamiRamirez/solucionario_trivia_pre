@@ -1,2 +1,2 @@
-# 2018-1-Laboratoria-Trivia
+# Laboratoria Trivia con commits!
 Solución al reto de la trivia
